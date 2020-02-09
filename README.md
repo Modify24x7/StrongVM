@@ -17,7 +17,7 @@ Requirement
 * .NET Framework Runtime v4.0
 
 
-[Get Latest Trial](https://github.com/Modify24x7/StrongVM/releases)
+[Get Latest Trial](https://github.com/Modify24x7/StrongVM/releases/latest)
 
 License
 -------
