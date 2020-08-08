@@ -5,12 +5,12 @@ StrongVM is a virtualizing protector for .NET applications.
 Features
 --------
 * Custom rename method
-* virtualize method
+* Virtualize method
 * Protection against debuggers
 * Protection against memory dumping
 * Resources encryption
 * String virtualize
-* Supports .NET Framework v2.0 - v4.8 [Windows]
+* Supports .NET Framework v2.0 - v4.8
 
 Requirement
 -----------
