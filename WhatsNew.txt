@@ -1,1 +1,7 @@
-test
+
+-- [Added]   Merging .Net Assembly Feature
+-- [Bug Fix] Internal
+-- [Update]  Check update
+-- [Update]  GUI
+-- [Update]  Resources Encryption
+-- [Update]  dnlib 3.5.0.0
