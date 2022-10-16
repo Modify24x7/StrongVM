@@ -10,6 +10,7 @@ Features
 * Protection against memory dumping
 * Resources encryption
 * String virtualize
+* Merging .Net Assembly
 * Supports .NET Framework v2.0 - v4.8
 
 Requirement
